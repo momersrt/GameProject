@@ -1,0 +1,15 @@
+/Users/momerst/Projects/GameProject/bin/Debug/net7.0/GameProject
+/Users/momerst/Projects/GameProject/bin/Debug/net7.0/GameProject.deps.json
+/Users/momerst/Projects/GameProject/bin/Debug/net7.0/GameProject.runtimeconfig.json
+/Users/momerst/Projects/GameProject/bin/Debug/net7.0/GameProject.dll
+/Users/momerst/Projects/GameProject/bin/Debug/net7.0/GameProject.pdb
+/Users/momerst/Projects/GameProject/obj/Debug/net7.0/GameProject.csproj.AssemblyReference.cache
+/Users/momerst/Projects/GameProject/obj/Debug/net7.0/GameProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/momerst/Projects/GameProject/obj/Debug/net7.0/GameProject.AssemblyInfoInputs.cache
+/Users/momerst/Projects/GameProject/obj/Debug/net7.0/GameProject.AssemblyInfo.cs
+/Users/momerst/Projects/GameProject/obj/Debug/net7.0/GameProject.csproj.CoreCompileInputs.cache
+/Users/momerst/Projects/GameProject/obj/Debug/net7.0/GameProject.dll
+/Users/momerst/Projects/GameProject/obj/Debug/net7.0/refint/GameProject.dll
+/Users/momerst/Projects/GameProject/obj/Debug/net7.0/GameProject.pdb
+/Users/momerst/Projects/GameProject/obj/Debug/net7.0/GameProject.genruntimeconfig.cache
+/Users/momerst/Projects/GameProject/obj/Debug/net7.0/ref/GameProject.dll

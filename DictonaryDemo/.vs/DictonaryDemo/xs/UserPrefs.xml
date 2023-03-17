@@ -1,0 +1,28 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{390FE0D3-AD3A-48E1-AEB7-05AC81A0593F}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../GameProject/Entities/Campaign.cs">
+    <Files>
+      <File FileName="../GameProject/Entities/Campaign.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DictonaryDemo" expanded="True" selected="True">
+            <Node name="DictonaryDemo" expanded="True" />
+            <Node name="GameProject" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GameProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DictonaryDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

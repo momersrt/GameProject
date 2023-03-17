@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  interfaceabstractdemo:
+    image: ${DOCKER_REGISTRY-}interfaceabstractdemo
+    build:
+      context: .
+      dockerfile: ../InterfaceAbstractDemo/Dockerfile

@@ -1,0 +1,15 @@
+/Users/momerst/Projects/DictonaryDemo/bin/Debug/net7.0/DictonaryDemo
+/Users/momerst/Projects/DictonaryDemo/bin/Debug/net7.0/DictonaryDemo.deps.json
+/Users/momerst/Projects/DictonaryDemo/bin/Debug/net7.0/DictonaryDemo.runtimeconfig.json
+/Users/momerst/Projects/DictonaryDemo/bin/Debug/net7.0/DictonaryDemo.dll
+/Users/momerst/Projects/DictonaryDemo/bin/Debug/net7.0/DictonaryDemo.pdb
+/Users/momerst/Projects/DictonaryDemo/obj/Debug/net7.0/DictonaryDemo.csproj.AssemblyReference.cache
+/Users/momerst/Projects/DictonaryDemo/obj/Debug/net7.0/DictonaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/momerst/Projects/DictonaryDemo/obj/Debug/net7.0/DictonaryDemo.AssemblyInfoInputs.cache
+/Users/momerst/Projects/DictonaryDemo/obj/Debug/net7.0/DictonaryDemo.AssemblyInfo.cs
+/Users/momerst/Projects/DictonaryDemo/obj/Debug/net7.0/DictonaryDemo.csproj.CoreCompileInputs.cache
+/Users/momerst/Projects/DictonaryDemo/obj/Debug/net7.0/DictonaryDemo.dll
+/Users/momerst/Projects/DictonaryDemo/obj/Debug/net7.0/refint/DictonaryDemo.dll
+/Users/momerst/Projects/DictonaryDemo/obj/Debug/net7.0/DictonaryDemo.pdb
+/Users/momerst/Projects/DictonaryDemo/obj/Debug/net7.0/DictonaryDemo.genruntimeconfig.cache
+/Users/momerst/Projects/DictonaryDemo/obj/Debug/net7.0/ref/DictonaryDemo.dll
